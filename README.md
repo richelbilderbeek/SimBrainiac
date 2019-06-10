@@ -1,5 +1,9 @@
 # SimBrainiac
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/SimBrainiac.svg?branch=master)](https://travis-ci.org/richelbilderbeek/SimBrainiac)
+
 ```
 This computerprogram has nothing to do with the TV-program 'Brainiac'
 ```
